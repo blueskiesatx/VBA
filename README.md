@@ -14,7 +14,7 @@ Stock Data
 
 Created a script that will loop through each year of stock data and grab the total amount of volume each stock had over the year.
 Display of the ticker symbol to coincide with the total volume is included.
-![VBA](img/Screenshots easy.pdf)
+![VBA](Screenshots easy.pdf)
 
 To do:
 Need to create a script that will loop through all the stocks and take the following info.
